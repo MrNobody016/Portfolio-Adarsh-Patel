@@ -97,7 +97,7 @@ observeElements();
 const projectData = {
     0: {
         title: 'Anime Relics: E-Commerce Mobile App',
-        image: 'https://images.unsplash.com/photo-1750056393300-102f7c4b8bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjBtb2NrdXB8ZW58MXx8fHwxNzYyMzc0NDgxfDA&ixlib=rb-4.1.0&q=80&w=1080',
+        image: 'Anime Relics Home page.png',
         category: ['UI/UX', 'Mobile', 'E-Commerce'],
         description: 'Designed the full mobile shopping experience in Figma—from the initial mobile login all the way through to a quick, painless checkout. Organized the entire store\'s structure (Information Architecture), creating clear categories for over 6 types of merchandise (like T-shirts, Hoodies, and Cosplay) to make product discovery simple and fun. Built the interactive, high-fidelity prototype that shows how users can seamlessly browse, view product details (including size selection), add items to the cart, and complete their purchase. My goal was simple: make finding awesome anime gear a joyful, engaging experience for fans.',
         technologies: ['Figma', 'Adobe XD', 'Prototyping', 'Wireframing', 'User Research'],
@@ -453,3 +453,4 @@ document.addEventListener('keydown', (e) => {
         }, 5000);
     }
 });
+
